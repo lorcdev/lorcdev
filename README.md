@@ -3,7 +3,7 @@
 <h3 align="center">I'm Web & Desktop Developer</h3>
 
 <h3 align="left">Contact</h3>
-- Contact Email **iletisim@lorc.com.tr**
+- 📧 Contact Email iletisim@lorc.com.tr
 <p align="left">
 </p>
 
