@@ -2,9 +2,8 @@
 <h1 align="center">Hi, I'm Lorca</h1>
 <h3 align="center">I'm Web & Desktop Developer</h3>
 
-- Contact Email **iletisim@lorc.com.tr**
-
 <h3 align="left">Contact</h3>
+- Contact Email **iletisim@lorc.com.tr**
 <p align="left">
 </p>
 
